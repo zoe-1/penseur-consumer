@@ -1,0 +1,26 @@
+{
+  "name": "penseur-consumer",
+  "version": "0.0.1",
+  "description": "develop rethinkdb penseur queries",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zoe-1/penseur-consumer.git"
+  },
+  "keywords": [
+    "penseur",
+    "rethinkdb"
+  ],
+  "author": "Jon Swenson",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/zoe-1/penseur-consumer/issues"
+  },
+  "homepage": "https://github.com/zoe-1/penseur-consumer#readme",
+  "dependencies": {
+    "penseur": "^7.6.1"
+  }
+}
